@@ -1,12 +1,20 @@
 [
   {
-    "title": "Sample Song 1",
-    "artist": "Artist 1",
+    "title": "Dreamscape",
+    "artist": "Lo-Fi Beats",
+    "cover_url": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4",
     "audio_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
   },
   {
-    "title": "Sample Song 2",
-    "artist": "Artist 2",
+    "title": "Ocean Waves",
+    "artist": "Nature Sounds",
+    "cover_url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
     "audio_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3"
+  },
+  {
+    "title": "Chill Vibes",
+    "artist": "Relax Beats",
+    "cover_url": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2",
+    "audio_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
   }
 ]
